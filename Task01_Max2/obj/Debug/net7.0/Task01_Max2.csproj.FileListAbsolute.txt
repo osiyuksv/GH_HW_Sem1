@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\bin\Debug\net7.0\Task01_Max2.exe
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\bin\Debug\net7.0\Task01_Max2.deps.json
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\bin\Debug\net7.0\Task01_Max2.runtimeconfig.json
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\bin\Debug\net7.0\Task01_Max2.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\bin\Debug\net7.0\Task01_Max2.pdb
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.AssemblyInfo.cs
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\refint\Task01_Max2.dll
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.pdb
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\Task01_Max2.genruntimeconfig.cache
+C:\Users\admin\Desktop\git\03 Programming\HW_Sem1\Task01_Max2\obj\Debug\net7.0\ref\Task01_Max2.dll
